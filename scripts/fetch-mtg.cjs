@@ -40,13 +40,27 @@ async function fetchScryfallSets() {
   }
 
   const data = await response.json();
-  const ALLOWED_TYPES = new Set(['core', 'expansion', 'masters', 'commander', 'draft_innovation']);
+  const ALLOWED_TYPES = new Set([
+    'core', 'expansion', 'masters', 'commander', 'draft_innovation', 
+    'box', 'promo', 'alchemy', 'memorabilia', 'token'
+  ]);
   
   const parsedSets = [];
   
   if (Array.isArray(data.data)) {
     for (const set of data.data) {
       if (ALLOWED_TYPES.has(set.set_type) && set.digital === false) {
+        let category = 'extras';
+        if (set.set_type === 'core' || set.set_type === 'expansion') {
+          category = 'expansion';
+        } else if (set.set_type === 'commander') {
+          category = 'commander';
+        } else if (set.set_type === 'masters' || set.set_type === 'draft_innovation') {
+          category = 'masters';
+        } else if (set.set_type === 'box' || (set.name && set.name.includes('Secret Lair'))) {
+          category = 'secret_lair';
+        }
+        
         // Enforce strict types as a security/resiliency measure
         parsedSets.push({
           id: String(set.id || ''),
@@ -56,7 +70,8 @@ async function fetchScryfallSets() {
           iconUri: String(set.icon_svg_uri || ''),
           cardCount: Number(set.card_count || 0),
           type: 'set',
-          setType: String(set.set_type || '')
+          setType: String(set.set_type || ''),
+          category: category
         });
       }
     }
@@ -124,6 +139,7 @@ async function fetchRssFeed() {
           name: title,
           releaseDate: releaseDate,
           type: 'announcement',
+          category: 'news',
           link: url
         });
       }

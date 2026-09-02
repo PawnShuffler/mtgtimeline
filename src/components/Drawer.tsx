@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from 'react';
-import { MTGSetEvent } from '../types';
+import { MTGEvent } from '../types';
 import { X, ExternalLink, Calendar, Layers } from 'lucide-react';
 
 interface DrawerProps {
   isOpen: boolean;
   onClose: () => void;
-  setEvent: MTGSetEvent | null;
+  event: MTGEvent | null;
 }
 
-export function Drawer({ isOpen, onClose, setEvent }: DrawerProps) {
+export function Drawer({ isOpen, onClose, event }: DrawerProps) {
   const [imageError, setImageError] = useState(false);
 
   useEffect(() => {
     setImageError(false);
-  }, [setEvent?.iconUri]);
+  }, [event?.type === 'set' ? event.iconUri : null]);
 
   // Prevent body scroll when drawer is open
   useEffect(() => {
@@ -25,7 +25,7 @@ export function Drawer({ isOpen, onClose, setEvent }: DrawerProps) {
     return () => { document.body.style.overflow = 'unset'; };
   }, [isOpen]);
 
-  if (!setEvent) return null;
+  if (!event) return null;
 
   return (
     <>
@@ -44,7 +44,7 @@ export function Drawer({ isOpen, onClose, setEvent }: DrawerProps) {
           <div className="flex items-center justify-between p-6 border-b border-mtg-white/10 relative overflow-hidden">
             <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-mtg-blue via-mtg-green to-mtg-red"></div>
             <h2 className="text-2xl font-bold text-mtg-white pr-8">
-              {setEvent.name}
+              {event.name}
             </h2>
             <button 
               onClick={onClose}
@@ -57,16 +57,22 @@ export function Drawer({ isOpen, onClose, setEvent }: DrawerProps) {
           {/* Content */}
           <div className="p-6 flex-grow flex flex-col gap-8">
             <div className="flex justify-center py-8">
-              {setEvent.iconUri && !imageError ? (
-                <img 
-                  src={setEvent.iconUri} 
-                  alt={setEvent.name} 
-                  className="w-32 h-32 filter invert opacity-90 drop-shadow-[0_0_15px_rgba(255,251,213,0.1)]" 
-                  onError={() => setImageError(true)}
-                />
+              {event.type === 'set' ? (
+                event.iconUri && !imageError ? (
+                  <img 
+                    src={event.iconUri} 
+                    alt={event.name} 
+                    className="w-32 h-32 filter invert opacity-90 drop-shadow-[0_0_15px_rgba(255,251,213,0.1)]" 
+                    onError={() => setImageError(true)}
+                  />
+                ) : (
+                  <div className="w-32 h-32 bg-mtg-black-bg rounded-xl border border-mtg-white/20 flex items-center justify-center text-4xl font-mono text-mtg-white/30 font-bold">
+                    {event.code.toUpperCase()}
+                  </div>
+                )
               ) : (
-                <div className="w-32 h-32 bg-mtg-black-bg rounded-xl border border-mtg-white/20 flex items-center justify-center text-4xl font-mono text-mtg-white/30 font-bold">
-                  {setEvent.code.toUpperCase()}
+                <div className="w-32 h-32 bg-mtg-black-bg rounded-xl border border-mtg-blue/30 flex items-center justify-center p-6 text-center text-mtg-blue/80 font-bold">
+                  NEWS
                 </div>
               )}
             </div>
@@ -78,41 +84,45 @@ export function Drawer({ isOpen, onClose, setEvent }: DrawerProps) {
                   Release Date
                 </div>
                 <div className="font-medium text-mtg-white">
-                  {setEvent.releaseDate}
+                  {event.releaseDate}
                 </div>
               </div>
               
-              <div className="flex items-center justify-between p-4 bg-mtg-black-bg rounded-lg border border-mtg-white/5">
-                <div className="flex items-center text-mtg-white/60">
-                  <span className="font-mono text-mtg-red mr-3 text-lg font-bold">#</span>
-                  Set Code
-                </div>
-                <div className="font-mono font-bold text-mtg-white uppercase">
-                  {setEvent.code}
-                </div>
-              </div>
-              
-              <div className="flex items-center justify-between p-4 bg-mtg-black-bg rounded-lg border border-mtg-white/5">
-                <div className="flex items-center text-mtg-white/60">
-                  <Layers className="w-5 h-5 mr-3 text-mtg-green" />
-                  Card Count
-                </div>
-                <div className="font-medium text-mtg-white">
-                  {setEvent.cardCount > 0 ? setEvent.cardCount : 'Unknown'}
-                </div>
-              </div>
+              {event.type === 'set' && (
+                <>
+                  <div className="flex items-center justify-between p-4 bg-mtg-black-bg rounded-lg border border-mtg-white/5">
+                    <div className="flex items-center text-mtg-white/60">
+                      <span className="font-mono text-mtg-red mr-3 text-lg font-bold">#</span>
+                      Set Code
+                    </div>
+                    <div className="font-mono font-bold text-mtg-white uppercase">
+                      {event.code}
+                    </div>
+                  </div>
+                  
+                  <div className="flex items-center justify-between p-4 bg-mtg-black-bg rounded-lg border border-mtg-white/5">
+                    <div className="flex items-center text-mtg-white/60">
+                      <Layers className="w-5 h-5 mr-3 text-mtg-green" />
+                      Card Count
+                    </div>
+                    <div className="font-medium text-mtg-white">
+                      {event.cardCount > 0 ? event.cardCount : 'Unknown'}
+                    </div>
+                  </div>
+                </>
+              )}
             </div>
           </div>
           
           {/* Footer */}
           <div className="p-6 border-t border-mtg-white/10 bg-mtg-black-bg">
             <a 
-              href={`https://scryfall.com/sets/${setEvent.code}`}
+              href={event.type === 'set' ? `https://scryfall.com/sets/${event.code}` : 'link' in event ? event.link : '#'}
               target="_blank"
               rel="noreferrer"
               className="w-full py-4 bg-mtg-white text-mtg-black-bg font-bold rounded-lg flex items-center justify-center gap-2 hover:bg-opacity-90 transition-colors"
             >
-              View on Scryfall
+              {event.type === 'set' ? 'View on Scryfall' : 'Read Article'}
               <ExternalLink className="w-5 h-5" />
             </a>
           </div>

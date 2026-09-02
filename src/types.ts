@@ -1,3 +1,5 @@
+export type CategoryKey = 'expansion' | 'commander' | 'masters' | 'secret_lair' | 'extras' | 'news';
+
 export interface MTGSetEvent {
   type: 'set';
   id: string;
@@ -7,13 +9,16 @@ export interface MTGSetEvent {
   iconUri: string;
   cardCount: number;
   setType: string;
+  category: CategoryKey;
 }
 
 export interface MTGAnnouncementEvent {
   type: 'announcement';
-  title: string;
-  url: string;
+  id: string;
+  name: string;
+  link: string;
   releaseDate: string;
+  category: CategoryKey;
 }
 
 export type MTGEvent = MTGSetEvent | MTGAnnouncementEvent;
