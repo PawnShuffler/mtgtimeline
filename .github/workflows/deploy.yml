@@ -39,7 +39,7 @@ jobs:
 
       - name: Fetch data and build Vite app
         run: |
-          node scripts/fetch-mtg.js
+          node scripts/fetch-mtg.cjs
           npm run build
 
       - name: Setup Pages
