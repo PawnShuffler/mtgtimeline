@@ -1,0 +1,2272 @@
+[
+  {
+    "id": "288bd996-960e-448b-a187-9504c1930c2c",
+    "name": "Limited Edition Alpha",
+    "code": "lea",
+    "releaseDate": "1993-08-05",
+    "iconUri": "https://svgs.scryfall.io/sets/lea.svg?1788148800",
+    "cardCount": 295,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "5307bd88-637c-4a5c-9801-a0d887715302",
+    "name": "Limited Edition Beta",
+    "code": "leb",
+    "releaseDate": "1993-10-04",
+    "iconUri": "https://svgs.scryfall.io/sets/leb.svg?1788148800",
+    "cardCount": 302,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "cd7694b9-339c-405d-a991-14413d4f6d5c",
+    "name": "Unlimited Edition",
+    "code": "2ed",
+    "releaseDate": "1993-12-01",
+    "iconUri": "https://svgs.scryfall.io/sets/2ed.svg?1788148800",
+    "cardCount": 302,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "856f63eb-e056-43e5-8a56-7a58e1608940",
+    "name": "Arabian Nights",
+    "code": "arn",
+    "releaseDate": "1993-12-17",
+    "iconUri": "https://svgs.scryfall.io/sets/arn.svg?1788148800",
+    "cardCount": 92,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "819f9678-87dd-4aba-a47b-2d553bfea21f",
+    "name": "Antiquities",
+    "code": "atq",
+    "releaseDate": "1994-03-04",
+    "iconUri": "https://svgs.scryfall.io/sets/atq.svg?1788148800",
+    "cardCount": 102,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "60648044-9f6a-4961-81af-47a0a94dfac9",
+    "name": "Foreign Black Border",
+    "code": "fbb",
+    "releaseDate": "1994-04-11",
+    "iconUri": "https://svgs.scryfall.io/sets/3ed.svg?1788148800",
+    "cardCount": 307,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "45a69797-8adf-468e-a4e1-ba81fd9d66ac",
+    "name": "Revised Edition",
+    "code": "3ed",
+    "releaseDate": "1994-04-11",
+    "iconUri": "https://svgs.scryfall.io/sets/3ed.svg?1788148800",
+    "cardCount": 306,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "78c50b4b-b220-455b-a2d5-cee458fa56f3",
+    "name": "Legends",
+    "code": "leg",
+    "releaseDate": "1994-06-01",
+    "iconUri": "https://svgs.scryfall.io/sets/leg.svg?1788148800",
+    "cardCount": 310,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "7993c591-1361-4dcb-b2af-ac94dd8e86e8",
+    "name": "Summer Magic / Edgar",
+    "code": "sum",
+    "releaseDate": "1994-06-21",
+    "iconUri": "https://svgs.scryfall.io/sets/psum.svg?1788148800",
+    "cardCount": 306,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "a21c6836-c435-459a-81e3-22d2da174549",
+    "name": "The Dark",
+    "code": "drk",
+    "releaseDate": "1994-08-01",
+    "iconUri": "https://svgs.scryfall.io/sets/drk.svg?1788148800",
+    "cardCount": 122,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "cf7390b1-341a-4ae8-a325-da0f5f322f13",
+    "name": "Fallen Empires",
+    "code": "fem",
+    "releaseDate": "1994-11-01",
+    "iconUri": "https://svgs.scryfall.io/sets/fem.svg?1788148800",
+    "cardCount": 187,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "daa633b3-2bdb-48a2-a40e-3de16b6e41a5",
+    "name": "Fourth Edition Foreign Black Border",
+    "code": "4bb",
+    "releaseDate": "1995-04-01",
+    "iconUri": "https://svgs.scryfall.io/sets/4ed.svg?1788148800",
+    "cardCount": 378,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "2dd259d4-dc13-4956-a2dc-3e1d70b4a743",
+    "name": "Fourth Edition",
+    "code": "4ed",
+    "releaseDate": "1995-04-01",
+    "iconUri": "https://svgs.scryfall.io/sets/4ed.svg?1788148800",
+    "cardCount": 380,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "b0e08eea-5c01-4406-a6e2-dcd09c5e5b67",
+    "name": "Ice Age",
+    "code": "ice",
+    "releaseDate": "1995-06-03",
+    "iconUri": "https://svgs.scryfall.io/sets/ice.svg?1788148800",
+    "cardCount": 383,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "985eab7d-655a-4cb0-ba74-d48c8dcfb3d4",
+    "name": "Chronicles",
+    "code": "chr",
+    "releaseDate": "1995-07-01",
+    "iconUri": "https://svgs.scryfall.io/sets/chr.svg?1788148800",
+    "cardCount": 125,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "d672ed60-4161-4b21-874a-584b13b2fc35",
+    "name": "Chronicles Foreign Black Border",
+    "code": "bchr",
+    "releaseDate": "1995-07-01",
+    "iconUri": "https://svgs.scryfall.io/sets/chr.svg?1788148800",
+    "cardCount": 125,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "bec33d25-cf6f-460f-918d-29b3009686bb",
+    "name": "Renaissance",
+    "code": "ren",
+    "releaseDate": "1995-08-01",
+    "iconUri": "https://svgs.scryfall.io/sets/ren.svg?1788148800",
+    "cardCount": 122,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8",
+    "name": "Rinascimento",
+    "code": "rin",
+    "releaseDate": "1995-08-01",
+    "iconUri": "https://svgs.scryfall.io/sets/rin.svg?1788148800",
+    "cardCount": 69,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "5ac1f606-e682-46e9-ad0f-122a3783581b",
+    "name": "Homelands",
+    "code": "hml",
+    "releaseDate": "1995-10-01",
+    "iconUri": "https://svgs.scryfall.io/sets/hml.svg?1788148800",
+    "cardCount": 140,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "64987b06-4a5c-443d-b560-ff5691744582",
+    "name": "Alliances",
+    "code": "all",
+    "releaseDate": "1996-06-10",
+    "iconUri": "https://svgs.scryfall.io/sets/all.svg?1788148800",
+    "cardCount": 199,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5f06acf3-8123-4a78-b2e7-089b0b775a4a",
+    "name": "Mirage",
+    "code": "mir",
+    "releaseDate": "1996-10-08",
+    "iconUri": "https://svgs.scryfall.io/sets/mir.svg?1788148800",
+    "cardCount": 353,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "2c32f1a9-7921-4826-bea0-80bbac70532c",
+    "name": "Visions",
+    "code": "vis",
+    "releaseDate": "1997-02-03",
+    "iconUri": "https://svgs.scryfall.io/sets/vis.svg?1788148800",
+    "cardCount": 167,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5afd2f4b-8309-4f45-a2b2-3785018474cb",
+    "name": "Fifth Edition",
+    "code": "5ed",
+    "releaseDate": "1997-03-24",
+    "iconUri": "https://svgs.scryfall.io/sets/5ed.svg?1788148800",
+    "cardCount": 460,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "700997ac-add2-4ce2-992e-5efa0fdfc0e9",
+    "name": "Weatherlight",
+    "code": "wth",
+    "releaseDate": "1997-06-09",
+    "iconUri": "https://svgs.scryfall.io/sets/wth.svg?1788148800",
+    "cardCount": 167,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "10df3a67-178e-4363-8668-34f0e6edf2a7",
+    "name": "Tempest",
+    "code": "tmp",
+    "releaseDate": "1997-10-14",
+    "iconUri": "https://svgs.scryfall.io/sets/tmp.svg?1788148800",
+    "cardCount": 350,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5c83396a-d386-4367-926b-571a75b086a3",
+    "name": "Stronghold",
+    "code": "sth",
+    "releaseDate": "1998-03-02",
+    "iconUri": "https://svgs.scryfall.io/sets/sth.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "1401f7af-2e71-476d-9813-991084ed0bb9",
+    "name": "Exodus",
+    "code": "exo",
+    "releaseDate": "1998-06-15",
+    "iconUri": "https://svgs.scryfall.io/sets/exo.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c330df40-51db-4caf-bde6-48df6c181001",
+    "name": "Urza's Saga",
+    "code": "usg",
+    "releaseDate": "1998-10-12",
+    "iconUri": "https://svgs.scryfall.io/sets/usg.svg?1788148800",
+    "cardCount": 357,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "78ced61b-4b8a-4b33-b6b2-f5bd66f1a75a",
+    "name": "Urza's Legacy",
+    "code": "ulg",
+    "releaseDate": "1999-02-15",
+    "iconUri": "https://svgs.scryfall.io/sets/ulg.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "78ee1957-d5d4-4551-acae-b1b418e8a50b",
+    "name": "Classic Sixth Edition",
+    "code": "6ed",
+    "releaseDate": "1999-04-21",
+    "iconUri": "https://svgs.scryfall.io/sets/6ed.svg?1788148800",
+    "cardCount": 351,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "44f17b37-dcf8-4239-baab-1efc00cd3480",
+    "name": "Urza's Destiny",
+    "code": "uds",
+    "releaseDate": "1999-06-07",
+    "iconUri": "https://svgs.scryfall.io/sets/uds.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "385e11a4-492b-4d07-b4a6-a1409ef829b8",
+    "name": "Mercadian Masques",
+    "code": "mmq",
+    "releaseDate": "1999-10-04",
+    "iconUri": "https://svgs.scryfall.io/sets/mmq.svg?1788148800",
+    "cardCount": 350,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "fa5d1fdb-f781-473d-b14d-50396d40d43f",
+    "name": "Nemesis",
+    "code": "nem",
+    "releaseDate": "2000-02-14",
+    "iconUri": "https://svgs.scryfall.io/sets/nem.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c233bd36-57c0-4aa2-ae6c-7aeabfb4e3ce",
+    "name": "Prophecy",
+    "code": "pcy",
+    "releaseDate": "2000-06-05",
+    "iconUri": "https://svgs.scryfall.io/sets/pcy.svg?1788148800",
+    "cardCount": 144,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "b9ae5e02-7726-47ca-b5e4-5ec402b41cd1",
+    "name": "Invasion",
+    "code": "inv",
+    "releaseDate": "2000-10-02",
+    "iconUri": "https://svgs.scryfall.io/sets/inv.svg?1788148800",
+    "cardCount": 354,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "82dc193b-bd5f-4883-a93f-a4155b467ee0",
+    "name": "Planeshift",
+    "code": "pls",
+    "releaseDate": "2001-02-05",
+    "iconUri": "https://svgs.scryfall.io/sets/pls.svg?1788148800",
+    "cardCount": 146,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "230f38aa-9511-4db8-a3aa-aeddbc3f7bb9",
+    "name": "Seventh Edition",
+    "code": "7ed",
+    "releaseDate": "2001-04-11",
+    "iconUri": "https://svgs.scryfall.io/sets/7ed.svg?1788148800",
+    "cardCount": 708,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "e4e00913-d08d-4899-86ea-5cf631e09ce0",
+    "name": "Apocalypse",
+    "code": "apc",
+    "releaseDate": "2001-06-04",
+    "iconUri": "https://svgs.scryfall.io/sets/apc.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "b0d90d2d-494a-4224-bfa0-36ce5ee281b1",
+    "name": "Odyssey",
+    "code": "ody",
+    "releaseDate": "2001-10-01",
+    "iconUri": "https://svgs.scryfall.io/sets/ody.svg?1788148800",
+    "cardCount": 353,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "e0b3fda1-a6ca-4996-849b-08b463d39484",
+    "name": "Torment",
+    "code": "tor",
+    "releaseDate": "2002-02-04",
+    "iconUri": "https://svgs.scryfall.io/sets/tor.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "cd82de1a-36fd-4618-bfe8-b45532a582d9",
+    "name": "Judgment",
+    "code": "jud",
+    "releaseDate": "2002-05-27",
+    "iconUri": "https://svgs.scryfall.io/sets/jud.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "914a6c6d-cb3b-45e8-a2db-9978a2339faf",
+    "name": "Onslaught",
+    "code": "ons",
+    "releaseDate": "2002-10-07",
+    "iconUri": "https://svgs.scryfall.io/sets/ons.svg?1788148800",
+    "cardCount": 351,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c2d60a18-1a81-4784-8e0c-e1de2f43c5cf",
+    "name": "Legions",
+    "code": "lgn",
+    "releaseDate": "2003-02-03",
+    "iconUri": "https://svgs.scryfall.io/sets/lgn.svg?1788148800",
+    "cardCount": 145,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5133c3a1-1412-4ce6-a1f0-73b695966ded",
+    "name": "Scourge",
+    "code": "scg",
+    "releaseDate": "2003-05-26",
+    "iconUri": "https://svgs.scryfall.io/sets/scg.svg?1788148800",
+    "cardCount": 143,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "cae8d29d-5979-4d8f-884d-7f3183bcc886",
+    "name": "Eighth Edition",
+    "code": "8ed",
+    "releaseDate": "2003-07-28",
+    "iconUri": "https://svgs.scryfall.io/sets/8ed.svg?1788148800",
+    "cardCount": 711,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "1d4f90ba-8d4a-4ee5-bc2f-e2d6bffe4955",
+    "name": "Mirrodin",
+    "code": "mrd",
+    "releaseDate": "2003-10-02",
+    "iconUri": "https://svgs.scryfall.io/sets/mrd.svg?1788148800",
+    "cardCount": 306,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "e29cb2dd-1345-4032-abfe-e52e8c8ce074",
+    "name": "Darksteel",
+    "code": "dst",
+    "releaseDate": "2004-02-06",
+    "iconUri": "https://svgs.scryfall.io/sets/dst.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "e4bc1b87-5476-463c-8640-4c414ecf1763",
+    "name": "Fifth Dawn",
+    "code": "5dn",
+    "releaseDate": "2004-06-04",
+    "iconUri": "https://svgs.scryfall.io/sets/5dn.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "6183d21f-a0af-4118-ba58-aca1d8719c01",
+    "name": "Champions of Kamigawa",
+    "code": "chk",
+    "releaseDate": "2004-10-01",
+    "iconUri": "https://svgs.scryfall.io/sets/chk.svg?1788148800",
+    "cardCount": 307,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "d4b88587-a1f5-4b47-9e24-78ec9e57bd0e",
+    "name": "Betrayers of Kamigawa",
+    "code": "bok",
+    "releaseDate": "2005-02-04",
+    "iconUri": "https://svgs.scryfall.io/sets/bok.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "4db16ad3-2b95-442f-bb6b-e9aa7fe7f769",
+    "name": "Saviors of Kamigawa",
+    "code": "sok",
+    "releaseDate": "2005-06-03",
+    "iconUri": "https://svgs.scryfall.io/sets/sok.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "e70c8572-4732-4e92-a140-b4e3c1c84c93",
+    "name": "Ninth Edition",
+    "code": "9ed",
+    "releaseDate": "2005-07-29",
+    "iconUri": "https://svgs.scryfall.io/sets/9ed.svg?1788148800",
+    "cardCount": 710,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "15fccbe8-2825-41ca-9d0a-67aebdf91c4a",
+    "name": "Ravnica: City of Guilds",
+    "code": "rav",
+    "releaseDate": "2005-10-07",
+    "iconUri": "https://svgs.scryfall.io/sets/rav.svg?1788148800",
+    "cardCount": 306,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "594b4d09-8ce1-494d-bdb2-842c124bd087",
+    "name": "Guildpact",
+    "code": "gpt",
+    "releaseDate": "2006-02-03",
+    "iconUri": "https://svgs.scryfall.io/sets/gpt.svg?1788148800",
+    "cardCount": 167,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "fdebeda1-b95f-4343-8a94-d125821e6b5c",
+    "name": "Dissension",
+    "code": "dis",
+    "releaseDate": "2006-05-05",
+    "iconUri": "https://svgs.scryfall.io/sets/dis.svg?1788148800",
+    "cardCount": 180,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "1f4f105f-73e4-4f03-849e-82a204807847",
+    "name": "Coldsnap",
+    "code": "csp",
+    "releaseDate": "2006-07-21",
+    "iconUri": "https://svgs.scryfall.io/sets/csp.svg?1788148800",
+    "cardCount": 155,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "6519be58-b8cb-4cd7-9f5b-4db23364715b",
+    "name": "Time Spiral Timeshifted",
+    "code": "tsb",
+    "releaseDate": "2006-10-06",
+    "iconUri": "https://svgs.scryfall.io/sets/tsp.svg?1788148800",
+    "cardCount": 121,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c1d109bc-ffd8-428f-8d7d-3f8d7e648046",
+    "name": "Time Spiral",
+    "code": "tsp",
+    "releaseDate": "2006-10-06",
+    "iconUri": "https://svgs.scryfall.io/sets/tsp.svg?1788148800",
+    "cardCount": 301,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5a1b571c-73e9-4c14-b9d4-a62507d85789",
+    "name": "Planar Chaos",
+    "code": "plc",
+    "releaseDate": "2007-02-02",
+    "iconUri": "https://svgs.scryfall.io/sets/plc.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "bf951ddb-4445-4923-87cb-3fe4ac3c6b9a",
+    "name": "Future Sight",
+    "code": "fut",
+    "releaseDate": "2007-05-04",
+    "iconUri": "https://svgs.scryfall.io/sets/fut.svg?1788148800",
+    "cardCount": 180,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "a66a6124-0d81-488d-b080-91f5ba7fbad0",
+    "name": "Tenth Edition",
+    "code": "10e",
+    "releaseDate": "2007-07-13",
+    "iconUri": "https://svgs.scryfall.io/sets/10e.svg?1788148800",
+    "cardCount": 510,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+    "name": "Lorwyn",
+    "code": "lrw",
+    "releaseDate": "2007-10-12",
+    "iconUri": "https://svgs.scryfall.io/sets/lrw.svg?1788148800",
+    "cardCount": 301,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c41550df-7b41-41a3-85ab-8612eb2f168f",
+    "name": "Morningtide",
+    "code": "mor",
+    "releaseDate": "2008-02-01",
+    "iconUri": "https://svgs.scryfall.io/sets/mor.svg?1788148800",
+    "cardCount": 150,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+    "name": "Shadowmoor",
+    "code": "shm",
+    "releaseDate": "2008-05-02",
+    "iconUri": "https://svgs.scryfall.io/sets/shm.svg?1788148800",
+    "cardCount": 302,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "86b4dfef-f2d1-49d6-825d-7df6bda44357",
+    "name": "Eventide",
+    "code": "eve",
+    "releaseDate": "2008-07-25",
+    "iconUri": "https://svgs.scryfall.io/sets/eve.svg?1788148800",
+    "cardCount": 180,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "d667aaec-09b7-4406-b6fa-60795132dc11",
+    "name": "Shards of Alara",
+    "code": "ala",
+    "releaseDate": "2008-10-03",
+    "iconUri": "https://svgs.scryfall.io/sets/ala.svg?1788148800",
+    "cardCount": 250,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "76b2db58-904c-4e49-8580-9f62f7b3cca4",
+    "name": "Conflux",
+    "code": "con",
+    "releaseDate": "2009-02-06",
+    "iconUri": "https://svgs.scryfall.io/sets/con.svg?1788148800",
+    "cardCount": 145,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "db486ec5-141d-4781-9ee5-5456926934c1",
+    "name": "Alara Reborn",
+    "code": "arb",
+    "releaseDate": "2009-04-30",
+    "iconUri": "https://svgs.scryfall.io/sets/arb.svg?1788148800",
+    "cardCount": 145,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "0dba38a9-6b9d-4768-9831-4e03e8970a0b",
+    "name": "Magic 2010",
+    "code": "m10",
+    "releaseDate": "2009-07-17",
+    "iconUri": "https://svgs.scryfall.io/sets/m10.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2",
+    "name": "Zendikar",
+    "code": "zen",
+    "releaseDate": "2009-10-02",
+    "iconUri": "https://svgs.scryfall.io/sets/zen.svg?1788148800",
+    "cardCount": 269,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "2f248ce6-c2a5-4c6f-a2be-0c593fbe173c",
+    "name": "Worldwake",
+    "code": "wwk",
+    "releaseDate": "2010-02-05",
+    "iconUri": "https://svgs.scryfall.io/sets/wwk.svg?1788148800",
+    "cardCount": 145,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "eadb8a82-ec56-4623-b50e-42e7e60cb535",
+    "name": "Rise of the Eldrazi",
+    "code": "roe",
+    "releaseDate": "2010-04-23",
+    "iconUri": "https://svgs.scryfall.io/sets/roe.svg?1788148800",
+    "cardCount": 248,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "485d2468-18c8-42a4-9482-ca1c51e0470e",
+    "name": "Magic 2011",
+    "code": "m11",
+    "releaseDate": "2010-07-16",
+    "iconUri": "https://svgs.scryfall.io/sets/m11.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+    "name": "Scars of Mirrodin",
+    "code": "som",
+    "releaseDate": "2010-10-01",
+    "iconUri": "https://svgs.scryfall.io/sets/som.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "f46c57e3-9301-4006-a6ca-06f3f65961fb",
+    "name": "Mirrodin Besieged",
+    "code": "mbs",
+    "releaseDate": "2011-02-04",
+    "iconUri": "https://svgs.scryfall.io/sets/mbs.svg?1788148800",
+    "cardCount": 155,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "e8e356d8-6d01-4dab-aa07-d0999dc9359f",
+    "name": "New Phyrexia",
+    "code": "nph",
+    "releaseDate": "2011-05-13",
+    "iconUri": "https://svgs.scryfall.io/sets/nph.svg?1788148800",
+    "cardCount": 175,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "84ff1a64-4e69-4ed2-8c08-26206e3b97a0",
+    "name": "Commander 2011",
+    "code": "cmd",
+    "releaseDate": "2011-06-17",
+    "iconUri": "https://svgs.scryfall.io/sets/cmd.svg?1788148800",
+    "cardCount": 318,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "5cdd2643-229c-4441-a62a-c34e4b531e1c",
+    "name": "Magic 2012",
+    "code": "m12",
+    "releaseDate": "2011-07-15",
+    "iconUri": "https://svgs.scryfall.io/sets/m12.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "d1026945-2969-42b9-be53-f941405a58cb",
+    "name": "Innistrad",
+    "code": "isd",
+    "releaseDate": "2011-09-30",
+    "iconUri": "https://svgs.scryfall.io/sets/isd.svg?1788148800",
+    "cardCount": 264,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "8052750a-aaf2-46fc-b46d-633f14124017",
+    "name": "Dark Ascension",
+    "code": "dka",
+    "releaseDate": "2012-02-03",
+    "iconUri": "https://svgs.scryfall.io/sets/dka.svg?1788148800",
+    "cardCount": 158,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "name": "Avacyn Restored",
+    "code": "avr",
+    "releaseDate": "2012-05-04",
+    "iconUri": "https://svgs.scryfall.io/sets/avr.svg?1788148800",
+    "cardCount": 244,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "f9b0c6f4-8a4f-4f36-ad3c-e1e16fb8535d",
+    "name": "Magic 2013",
+    "code": "m13",
+    "releaseDate": "2012-07-13",
+    "iconUri": "https://svgs.scryfall.io/sets/m13.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "80b2374d-c5f1-403e-9772-f6c806fd275e",
+    "name": "Return to Ravnica",
+    "code": "rtr",
+    "releaseDate": "2012-10-05",
+    "iconUri": "https://svgs.scryfall.io/sets/rtr.svg?1788148800",
+    "cardCount": 274,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "035a05f7-e020-4f50-a141-ed16ba704bd2",
+    "name": "Gatecrash",
+    "code": "gtc",
+    "releaseDate": "2013-02-01",
+    "iconUri": "https://svgs.scryfall.io/sets/gtc.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c8bd8520-cd98-45cd-b533-8d40c2087426",
+    "name": "Dragon's Maze",
+    "code": "dgm",
+    "releaseDate": "2013-05-03",
+    "iconUri": "https://svgs.scryfall.io/sets/dgm.svg?1788148800",
+    "cardCount": 156,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+    "name": "Modern Masters",
+    "code": "mma",
+    "releaseDate": "2013-06-07",
+    "iconUri": "https://svgs.scryfall.io/sets/mma.svg?1788148800",
+    "cardCount": 229,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847",
+    "name": "Magic 2014",
+    "code": "m14",
+    "releaseDate": "2013-07-19",
+    "iconUri": "https://svgs.scryfall.io/sets/m14.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "69093d6f-e25a-41a4-8cf5-688d7f11c0fb",
+    "name": "Theros",
+    "code": "ths",
+    "releaseDate": "2013-09-27",
+    "iconUri": "https://svgs.scryfall.io/sets/ths.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c62e6d4f-af8c-4f27-9bc8-361291890146",
+    "name": "Commander 2013",
+    "code": "c13",
+    "releaseDate": "2013-11-01",
+    "iconUri": "https://svgs.scryfall.io/sets/c13.svg?1788148800",
+    "cardCount": 356,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "50a80fe4-a757-408f-ad23-52c5cc5f45cc",
+    "name": "Born of the Gods",
+    "code": "bng",
+    "releaseDate": "2014-02-07",
+    "iconUri": "https://svgs.scryfall.io/sets/bng.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "204d2dca-1887-4721-9558-164aa7bbeb4f",
+    "name": "Journey into Nyx",
+    "code": "jou",
+    "releaseDate": "2014-05-02",
+    "iconUri": "https://svgs.scryfall.io/sets/jou.svg?1788148800",
+    "cardCount": 165,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "7d4ebb59-a50b-45b8-8fff-ab70767819a5",
+    "name": "Conspiracy",
+    "code": "cns",
+    "releaseDate": "2014-06-06",
+    "iconUri": "https://svgs.scryfall.io/sets/cns.svg?1788148800",
+    "cardCount": 210,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "6ce49890-3b37-42a5-8932-dbeef1d7b62c",
+    "name": "Magic 2015",
+    "code": "m15",
+    "releaseDate": "2014-07-18",
+    "iconUri": "https://svgs.scryfall.io/sets/m15.svg?1788148800",
+    "cardCount": 284,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "6c7a715c-ded9-449e-89b0-c665773e9c3c",
+    "name": "Khans of Tarkir",
+    "code": "ktk",
+    "releaseDate": "2014-09-26",
+    "iconUri": "https://svgs.scryfall.io/sets/ktk.svg?1788148800",
+    "cardCount": 293,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "0980a6e2-eb78-4ad2-8396-cef08fce365e",
+    "name": "Commander 2014",
+    "code": "c14",
+    "releaseDate": "2014-11-07",
+    "iconUri": "https://svgs.scryfall.io/sets/c14.svg?1788148800",
+    "cardCount": 337,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "7bb5cb2b-081a-4c8c-b7e1-494046e6baa1",
+    "name": "Fate Reforged",
+    "code": "frf",
+    "releaseDate": "2015-01-23",
+    "iconUri": "https://svgs.scryfall.io/sets/frf.svg?1788148800",
+    "cardCount": 191,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "7e72625f-f320-4552-a719-d11e2f1853bd",
+    "name": "Dragons of Tarkir",
+    "code": "dtk",
+    "releaseDate": "2015-03-27",
+    "iconUri": "https://svgs.scryfall.io/sets/dtk.svg?1788148800",
+    "cardCount": 264,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "28cac015-43df-4e88-90d0-95dcdd894834",
+    "name": "Modern Masters 2015",
+    "code": "mm2",
+    "releaseDate": "2015-05-22",
+    "iconUri": "https://svgs.scryfall.io/sets/mm2.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62",
+    "name": "Magic Origins",
+    "code": "ori",
+    "releaseDate": "2015-07-17",
+    "iconUri": "https://svgs.scryfall.io/sets/ori.svg?1788148800",
+    "cardCount": 288,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "91719374-7ac5-4afa-ada8-5da964dcf1d4",
+    "name": "Battle for Zendikar",
+    "code": "bfz",
+    "releaseDate": "2015-10-02",
+    "iconUri": "https://svgs.scryfall.io/sets/bfz.svg?1788148800",
+    "cardCount": 299,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "ea6c99f9-5489-4504-b30c-c819fa3b1fd3",
+    "name": "Commander 2015",
+    "code": "c15",
+    "releaseDate": "2015-11-13",
+    "iconUri": "https://svgs.scryfall.io/sets/c15.svg?1788148800",
+    "cardCount": 342,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "cd51d245-8f95-45b0-ab5f-e2b3a3eb5dfe",
+    "name": "Oath of the Gatewatch",
+    "code": "ogw",
+    "releaseDate": "2016-01-22",
+    "iconUri": "https://svgs.scryfall.io/sets/ogw.svg?1788148800",
+    "cardCount": 187,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5e914d7e-c1e9-446c-a33d-d093c02b2743",
+    "name": "Shadows over Innistrad",
+    "code": "soi",
+    "releaseDate": "2016-04-08",
+    "iconUri": "https://svgs.scryfall.io/sets/soi.svg?1788148800",
+    "cardCount": 302,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "1f29f022-3ace-4c96-85e8-1f7b63aadf7e",
+    "name": "Eternal Masters",
+    "code": "ema",
+    "releaseDate": "2016-06-10",
+    "iconUri": "https://svgs.scryfall.io/sets/ema.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "5f0e4093-334f-4439-bbb5-a0affafd0ffc",
+    "name": "Eldritch Moon",
+    "code": "emn",
+    "releaseDate": "2016-07-22",
+    "iconUri": "https://svgs.scryfall.io/sets/emn.svg?1788148800",
+    "cardCount": 208,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "ad1b8847-1905-4080-9e26-80691ea7c1ef",
+    "name": "Conspiracy: Take the Crown",
+    "code": "cn2",
+    "releaseDate": "2016-08-26",
+    "iconUri": "https://svgs.scryfall.io/sets/cn2.svg?1788148800",
+    "cardCount": 222,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "d667e468-be8f-411f-a030-473d148deb74",
+    "name": "Kaladesh",
+    "code": "kld",
+    "releaseDate": "2016-09-30",
+    "iconUri": "https://svgs.scryfall.io/sets/kld.svg?1788148800",
+    "cardCount": 278,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "3e0d713a-b5cb-4287-81b9-a57d4dcaf415",
+    "name": "Commander 2016",
+    "code": "c16",
+    "releaseDate": "2016-11-11",
+    "iconUri": "https://svgs.scryfall.io/sets/c16.svg?1788148800",
+    "cardCount": 351,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "a4a0db50-8826-4e73-833c-3fd934375f96",
+    "name": "Aether Revolt",
+    "code": "aer",
+    "releaseDate": "2017-01-20",
+    "iconUri": "https://svgs.scryfall.io/sets/aer.svg?1788148800",
+    "cardCount": 197,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+    "name": "Modern Masters 2017",
+    "code": "mm3",
+    "releaseDate": "2017-03-17",
+    "iconUri": "https://svgs.scryfall.io/sets/mm3.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "02d1c536-68bc-4208-9b65-7741ef1f9da8",
+    "name": "Amonkhet",
+    "code": "akh",
+    "releaseDate": "2017-04-28",
+    "iconUri": "https://svgs.scryfall.io/sets/akh.svg?1788148800",
+    "cardCount": 287,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "fd4d8463-0156-4c60-a40e-778762bb90e4",
+    "name": "Commander Anthology",
+    "code": "cma",
+    "releaseDate": "2017-06-09",
+    "iconUri": "https://svgs.scryfall.io/sets/cma.svg?1788148800",
+    "cardCount": 320,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "65ff168b-bb94-47a5-a8f9-4ec6c213e768",
+    "name": "Hour of Devastation",
+    "code": "hou",
+    "releaseDate": "2017-07-14",
+    "iconUri": "https://svgs.scryfall.io/sets/hou.svg?1788148800",
+    "cardCount": 209,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5caec427-0c78-4c37-b4ec-30f7e0ba9abf",
+    "name": "Commander 2017",
+    "code": "c17",
+    "releaseDate": "2017-08-25",
+    "iconUri": "https://svgs.scryfall.io/sets/c17.svg?1788148800",
+    "cardCount": 309,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "fe0dad85-54bc-4151-9200-d68da84dd0f2",
+    "name": "Ixalan",
+    "code": "xln",
+    "releaseDate": "2017-09-29",
+    "iconUri": "https://svgs.scryfall.io/sets/xln.svg?1788148800",
+    "cardCount": 289,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "741bcd30-7709-4133-8919-f4b46483bed7",
+    "name": "Iconic Masters",
+    "code": "ima",
+    "releaseDate": "2017-11-17",
+    "iconUri": "https://svgs.scryfall.io/sets/ima.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "2f7e40fc-772d-4a85-bfdd-01653c41d0fa",
+    "name": "Rivals of Ixalan",
+    "code": "rix",
+    "releaseDate": "2018-01-19",
+    "iconUri": "https://svgs.scryfall.io/sets/rix.svg?1788148800",
+    "cardCount": 205,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "41ee6e2f-69b3-4c53-8a8e-960f5e974cfc",
+    "name": "Masters 25",
+    "code": "a25",
+    "releaseDate": "2018-03-16",
+    "iconUri": "https://svgs.scryfall.io/sets/a25.svg?1788148800",
+    "cardCount": 249,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "be1daba3-51c9-4e7e-9212-36e68addc26c",
+    "name": "Dominaria",
+    "code": "dom",
+    "releaseDate": "2018-04-27",
+    "iconUri": "https://svgs.scryfall.io/sets/dom.svg?1788148800",
+    "cardCount": 280,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "95f97fbc-58ef-4645-982e-43e2db6f1124",
+    "name": "Battlebond",
+    "code": "bbd",
+    "releaseDate": "2018-06-08",
+    "iconUri": "https://svgs.scryfall.io/sets/bbd.svg?1788148800",
+    "cardCount": 256,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "2ba5b1a3-40ed-422e-981d-56753004dfc6",
+    "name": "Commander Anthology Volume II",
+    "code": "cm2",
+    "releaseDate": "2018-06-08",
+    "iconUri": "https://svgs.scryfall.io/sets/cm2.svg?1788148800",
+    "cardCount": 312,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+    "name": "Core Set 2019",
+    "code": "m19",
+    "releaseDate": "2018-07-13",
+    "iconUri": "https://svgs.scryfall.io/sets/m19.svg?1788148800",
+    "cardCount": 314,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "06ce6bc2-85cd-4cca-85b1-8c620d3e0902",
+    "name": "Commander 2018",
+    "code": "c18",
+    "releaseDate": "2018-08-10",
+    "iconUri": "https://svgs.scryfall.io/sets/c18.svg?1788148800",
+    "cardCount": 307,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+    "name": "Guilds of Ravnica",
+    "code": "grn",
+    "releaseDate": "2018-10-05",
+    "iconUri": "https://svgs.scryfall.io/sets/grn.svg?1788148800",
+    "cardCount": 273,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "2ec77b94-6d47-4891-a480-5d0b4e5c9372",
+    "name": "Ultimate Masters",
+    "code": "uma",
+    "releaseDate": "2018-12-07",
+    "iconUri": "https://svgs.scryfall.io/sets/uma.svg?1788148800",
+    "cardCount": 254,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "97a7fd84-8d89-45a3-b48b-c951f6a3f9f1",
+    "name": "Ravnica Allegiance",
+    "code": "rna",
+    "releaseDate": "2019-01-25",
+    "iconUri": "https://svgs.scryfall.io/sets/rna.svg?1788148800",
+    "cardCount": 273,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "ee044f0b-e101-4ead-8d0e-aa510aad4277",
+    "name": "War of the Spark",
+    "code": "war",
+    "releaseDate": "2019-05-03",
+    "iconUri": "https://svgs.scryfall.io/sets/war.svg?1788148800",
+    "cardCount": 312,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+    "name": "Modern Horizons",
+    "code": "mh1",
+    "releaseDate": "2019-06-14",
+    "iconUri": "https://svgs.scryfall.io/sets/mh1.svg?1788148800",
+    "cardCount": 255,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "4a787360-9767-4f44-80b1-2405dc5e39c7",
+    "name": "Core Set 2020",
+    "code": "m20",
+    "releaseDate": "2019-07-12",
+    "iconUri": "https://svgs.scryfall.io/sets/m20.svg?1788148800",
+    "cardCount": 346,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "0fa3ccbb-d86d-4a2e-a55e-c4979c4feeb2",
+    "name": "Commander 2019",
+    "code": "c19",
+    "releaseDate": "2019-08-23",
+    "iconUri": "https://svgs.scryfall.io/sets/c19.svg?1788148800",
+    "cardCount": 302,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "a90a7b2f-9dd8-4fc7-9f7d-8ea2797ec782",
+    "name": "Throne of Eldraine",
+    "code": "eld",
+    "releaseDate": "2019-10-04",
+    "iconUri": "https://svgs.scryfall.io/sets/eld.svg?1788148800",
+    "cardCount": 398,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5f23a78d-cda1-462a-8be3-a62b40c34913",
+    "name": "Theros Beyond Death",
+    "code": "thb",
+    "releaseDate": "2020-01-24",
+    "iconUri": "https://svgs.scryfall.io/sets/thb.svg?1788148800",
+    "cardCount": 358,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+    "name": "Commander 2020",
+    "code": "c20",
+    "releaseDate": "2020-04-17",
+    "iconUri": "https://svgs.scryfall.io/sets/c20.svg?1788148800",
+    "cardCount": 322,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "19feda43-15ab-427e-a0e4-148a4bf2b03a",
+    "name": "Ikoria: Lair of Behemoths",
+    "code": "iko",
+    "releaseDate": "2020-04-24",
+    "iconUri": "https://svgs.scryfall.io/sets/iko.svg?1788148800",
+    "cardCount": 390,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "bc94aba1-7376-4e02-a12d-3a2efb66ab0f",
+    "name": "Core Set 2021",
+    "code": "m21",
+    "releaseDate": "2020-07-03",
+    "iconUri": "https://svgs.scryfall.io/sets/m21.svg?1788148800",
+    "cardCount": 397,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "0f6ccf25-a627-4263-86df-5757137f1696",
+    "name": "Jumpstart",
+    "code": "jmp",
+    "releaseDate": "2020-07-17",
+    "iconUri": "https://svgs.scryfall.io/sets/jmp.svg?1788148800",
+    "cardCount": 497,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+    "name": "Double Masters",
+    "code": "2xm",
+    "releaseDate": "2020-08-07",
+    "iconUri": "https://svgs.scryfall.io/sets/2xm.svg?1788148800",
+    "cardCount": 384,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "25c6bd9b-4e10-40a4-b9b5-0f4d9b5852a1",
+    "name": "Zendikar Rising Commander",
+    "code": "znc",
+    "releaseDate": "2020-09-25",
+    "iconUri": "https://svgs.scryfall.io/sets/znc.svg?1788148800",
+    "cardCount": 142,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+    "name": "Zendikar Rising",
+    "code": "znr",
+    "releaseDate": "2020-09-25",
+    "iconUri": "https://svgs.scryfall.io/sets/znr.svg?1788148800",
+    "cardCount": 407,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+    "name": "The List",
+    "code": "plst",
+    "releaseDate": "2020-09-26",
+    "iconUri": "https://svgs.scryfall.io/sets/planeswalker.svg?1788148800",
+    "cardCount": 5584,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "39de6fbf-1f11-48d0-8f04-f0407f6a0732",
+    "name": "Commander Legends",
+    "code": "cmr",
+    "releaseDate": "2020-11-20",
+    "iconUri": "https://svgs.scryfall.io/sets/cmr.svg?1788148800",
+    "cardCount": 718,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "d532ef25-e52b-4276-941a-3a1c095544b0",
+    "name": "Kaldheim Commander",
+    "code": "khc",
+    "releaseDate": "2021-02-05",
+    "iconUri": "https://svgs.scryfall.io/sets/khc.svg?1788148800",
+    "cardCount": 119,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+    "name": "Kaldheim",
+    "code": "khm",
+    "releaseDate": "2021-02-05",
+    "iconUri": "https://svgs.scryfall.io/sets/khm.svg?1788148800",
+    "cardCount": 425,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "11e90d1b-0502-43e6-b056-e24836523c13",
+    "name": "Time Spiral Remastered",
+    "code": "tsr",
+    "releaseDate": "2021-03-19",
+    "iconUri": "https://svgs.scryfall.io/sets/tsr.svg?1788148800",
+    "cardCount": 411,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "541c3c28-8747-40e5-a231-8e8f33234859",
+    "name": "Strixhaven: School of Mages",
+    "code": "stx",
+    "releaseDate": "2021-04-23",
+    "iconUri": "https://svgs.scryfall.io/sets/stx.svg?1788148800",
+    "cardCount": 393,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "27bf6dbd-a9e1-4904-afa7-d28fc7745c4f",
+    "name": "Commander 2021",
+    "code": "c21",
+    "releaseDate": "2021-04-23",
+    "iconUri": "https://svgs.scryfall.io/sets/c21.svg?1788148800",
+    "cardCount": 409,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "7b3294cf-104e-43fb-8170-add3e78faca7",
+    "name": "Modern Horizons 1 Timeshifts",
+    "code": "h1r",
+    "releaseDate": "2021-06-18",
+    "iconUri": "https://svgs.scryfall.io/sets/mh1.svg?1788148800",
+    "cardCount": 40,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "c1c7eb8c-f205-40ab-a609-767cb296544e",
+    "name": "Modern Horizons 2",
+    "code": "mh2",
+    "releaseDate": "2021-06-18",
+    "iconUri": "https://svgs.scryfall.io/sets/mh2.svg?1788148800",
+    "cardCount": 493,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+    "name": "Forgotten Realms Commander",
+    "code": "afc",
+    "releaseDate": "2021-07-23",
+    "iconUri": "https://svgs.scryfall.io/sets/afc.svg?1788148800",
+    "cardCount": 331,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "e1ef87ba-ba92-4573-817f-543b996d2851",
+    "name": "Adventures in the Forgotten Realms",
+    "code": "afr",
+    "releaseDate": "2021-07-23",
+    "iconUri": "https://svgs.scryfall.io/sets/afr.svg?1788148800",
+    "cardCount": 424,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "7f9a4deb-715e-47d2-afac-3843ef92f39b",
+    "name": "Midnight Hunt Commander",
+    "code": "mic",
+    "releaseDate": "2021-09-24",
+    "iconUri": "https://svgs.scryfall.io/sets/mic.svg?1788148800",
+    "cardCount": 187,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+    "name": "Innistrad: Midnight Hunt",
+    "code": "mid",
+    "releaseDate": "2021-09-24",
+    "iconUri": "https://svgs.scryfall.io/sets/mid.svg?1788148800",
+    "cardCount": 399,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+    "name": "Innistrad: Crimson Vow",
+    "code": "vow",
+    "releaseDate": "2021-11-19",
+    "iconUri": "https://svgs.scryfall.io/sets/vow.svg?1788148800",
+    "cardCount": 423,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+    "name": "Crimson Vow Commander",
+    "code": "voc",
+    "releaseDate": "2021-11-19",
+    "iconUri": "https://svgs.scryfall.io/sets/voc.svg?1788148800",
+    "cardCount": 188,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+    "name": "Innistrad: Double Feature",
+    "code": "dbl",
+    "releaseDate": "2022-01-28",
+    "iconUri": "https://svgs.scryfall.io/sets/star.svg?1788148800",
+    "cardCount": 535,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "59a2059f-5482-433f-8761-eb2e17859b71",
+    "name": "Kamigawa: Neon Dynasty",
+    "code": "neo",
+    "releaseDate": "2022-02-18",
+    "iconUri": "https://svgs.scryfall.io/sets/neo.svg?1788148800",
+    "cardCount": 531,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+    "name": "Neon Dynasty Commander",
+    "code": "nec",
+    "releaseDate": "2022-02-18",
+    "iconUri": "https://svgs.scryfall.io/sets/nec.svg?1788148800",
+    "cardCount": 179,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "3c318e12-9152-4300-a096-4f58a6438897",
+    "name": "Universes Within",
+    "code": "slx",
+    "releaseDate": "2022-03-03",
+    "iconUri": "https://svgs.scryfall.io/sets/star.svg?1788148800",
+    "cardCount": 30,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "df837242-8c15-42e4-b049-c933a02dc501",
+    "name": "Streets of New Capenna",
+    "code": "snc",
+    "releaseDate": "2022-04-29",
+    "iconUri": "https://svgs.scryfall.io/sets/snc.svg?1788148800",
+    "cardCount": 513,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "c51de34b-d4d6-4179-a432-573744ded119",
+    "name": "New Capenna Commander",
+    "code": "ncc",
+    "releaseDate": "2022-04-29",
+    "iconUri": "https://svgs.scryfall.io/sets/ncc.svg?1788148800",
+    "cardCount": 447,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+    "name": "Commander Legends: Battle for Baldur's Gate",
+    "code": "clb",
+    "releaseDate": "2022-06-10",
+    "iconUri": "https://svgs.scryfall.io/sets/clb.svg?1788148800",
+    "cardCount": 936,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+    "name": "Double Masters 2022",
+    "code": "2x2",
+    "releaseDate": "2022-07-08",
+    "iconUri": "https://svgs.scryfall.io/sets/2x2.svg?1788148800",
+    "cardCount": 579,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+    "name": "Dominaria United",
+    "code": "dmu",
+    "releaseDate": "2022-09-09",
+    "iconUri": "https://svgs.scryfall.io/sets/dmu.svg?1788148800",
+    "cardCount": 453,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "78076b27-f888-4723-b27c-44074accd261",
+    "name": "Dominaria United Commander",
+    "code": "dmc",
+    "releaseDate": "2022-09-09",
+    "iconUri": "https://svgs.scryfall.io/sets/dmc.svg?1788148800",
+    "cardCount": 240,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+    "name": "Warhammer 40,000 Commander",
+    "code": "40k",
+    "releaseDate": "2022-10-07",
+    "iconUri": "https://svgs.scryfall.io/sets/40k.svg?1788148800",
+    "cardCount": 617,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "81d56780-1efc-4487-9803-43d634ca13d0",
+    "name": "The Brothers' War Commander",
+    "code": "brc",
+    "releaseDate": "2022-11-18",
+    "iconUri": "https://svgs.scryfall.io/sets/brc.svg?1788148800",
+    "cardCount": 209,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "4219a14e-6701-4ddd-a185-21dc054ab19b",
+    "name": "The Brothers' War",
+    "code": "bro",
+    "releaseDate": "2022-11-18",
+    "iconUri": "https://svgs.scryfall.io/sets/bro.svg?1788148800",
+    "cardCount": 399,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+    "name": "Starter Commander Decks",
+    "code": "scd",
+    "releaseDate": "2022-12-02",
+    "iconUri": "https://svgs.scryfall.io/sets/scd.svg?1788148800",
+    "cardCount": 352,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+    "name": "Jumpstart 2022",
+    "code": "j22",
+    "releaseDate": "2022-12-02",
+    "iconUri": "https://svgs.scryfall.io/sets/j22.svg?1788148800",
+    "cardCount": 835,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+    "name": "Dominaria Remastered",
+    "code": "dmr",
+    "releaseDate": "2023-01-13",
+    "iconUri": "https://svgs.scryfall.io/sets/dmr.svg?1788148800",
+    "cardCount": 457,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "04bef644-343f-4230-95ee-255f29aa67a2",
+    "name": "Phyrexia: All Will Be One",
+    "code": "one",
+    "releaseDate": "2023-02-10",
+    "iconUri": "https://svgs.scryfall.io/sets/one.svg?1788148800",
+    "cardCount": 479,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "8c5e86d4-ae2d-42f7-a0e5-0e4141eb953d",
+    "name": "Phyrexia: All Will Be One Commander",
+    "code": "onc",
+    "releaseDate": "2023-02-10",
+    "iconUri": "https://svgs.scryfall.io/sets/onc.svg?1788148800",
+    "cardCount": 174,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+    "name": "March of the Machine",
+    "code": "mom",
+    "releaseDate": "2023-04-21",
+    "iconUri": "https://svgs.scryfall.io/sets/mom.svg?1788148800",
+    "cardCount": 387,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "6bba5de9-5afb-42af-a7eb-24ac854bf671",
+    "name": "March of the Machine Commander",
+    "code": "moc",
+    "releaseDate": "2023-04-21",
+    "iconUri": "https://svgs.scryfall.io/sets/moc.svg?1788148800",
+    "cardCount": 450,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+    "name": "March of the Machine: The Aftermath",
+    "code": "mat",
+    "releaseDate": "2023-05-12",
+    "iconUri": "https://svgs.scryfall.io/sets/mat.svg?1788148800",
+    "cardCount": 230,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "e567c19c-0fe4-446e-a7bf-fce8a150cd2e",
+    "name": "Tales of Middle-earth Commander",
+    "code": "ltc",
+    "releaseDate": "2023-06-23",
+    "iconUri": "https://svgs.scryfall.io/sets/ltc.svg?1788148800",
+    "cardCount": 591,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "08078706-ac5d-439b-8f01-894d38751367",
+    "name": "The Lord of the Rings: Tales of Middle-earth",
+    "code": "ltr",
+    "releaseDate": "2023-06-23",
+    "iconUri": "https://svgs.scryfall.io/sets/ltr.svg?1788148800",
+    "cardCount": 856,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+    "name": "Commander Masters",
+    "code": "cmm",
+    "releaseDate": "2023-08-04",
+    "iconUri": "https://svgs.scryfall.io/sets/cmm.svg?1788148800",
+    "cardCount": 1067,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "51c0814a-2db2-4182-9aac-77340e9a540d",
+    "name": "Wilds of Eldraine Commander",
+    "code": "woc",
+    "releaseDate": "2023-09-08",
+    "iconUri": "https://svgs.scryfall.io/sets/woc.svg?1788148800",
+    "cardCount": 173,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+    "name": "Wilds of Eldraine",
+    "code": "woe",
+    "releaseDate": "2023-09-08",
+    "iconUri": "https://svgs.scryfall.io/sets/woe.svg?1788148800",
+    "cardCount": 381,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "efdfdd99-cee7-4c11-a5e9-03d60f88bdd6",
+    "name": "Doctor Who",
+    "code": "who",
+    "releaseDate": "2023-10-13",
+    "iconUri": "https://svgs.scryfall.io/sets/who.svg?1788148800",
+    "cardCount": 1178,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+    "name": "The Lost Caverns of Ixalan",
+    "code": "lci",
+    "releaseDate": "2023-11-17",
+    "iconUri": "https://svgs.scryfall.io/sets/lci.svg?1788148800",
+    "cardCount": 416,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "d253edc3-5bc7-4cf1-9446-a8540dedffa5",
+    "name": "The Lost Caverns of Ixalan Commander",
+    "code": "lcc",
+    "releaseDate": "2023-11-17",
+    "iconUri": "https://svgs.scryfall.io/sets/lcc.svg?1788148800",
+    "cardCount": 370,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+    "name": "Ravnica Remastered",
+    "code": "rvr",
+    "releaseDate": "2024-01-12",
+    "iconUri": "https://svgs.scryfall.io/sets/rvr.svg?1788148800",
+    "cardCount": 531,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "2b17794b-15c3-4796-ad6f-0887a0eceeca",
+    "name": "Murders at Karlov Manor",
+    "code": "mkm",
+    "releaseDate": "2024-02-09",
+    "iconUri": "https://svgs.scryfall.io/sets/mkm.svg?1788148800",
+    "cardCount": 451,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "286c37ca-ba65-4d3e-8c5d-d1878d88fd95",
+    "name": "Murders at Karlov Manor Commander",
+    "code": "mkc",
+    "releaseDate": "2024-02-09",
+    "iconUri": "https://svgs.scryfall.io/sets/mkc.svg?1788148800",
+    "cardCount": 358,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "d4bfabcf-a859-43a4-9d8a-665533c8b174",
+    "name": "Ravnica: Clue Edition",
+    "code": "clu",
+    "releaseDate": "2024-02-23",
+    "iconUri": "https://svgs.scryfall.io/sets/clu.svg?1788148800",
+    "cardCount": 284,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+    "name": "Fallout",
+    "code": "pip",
+    "releaseDate": "2024-03-08",
+    "iconUri": "https://svgs.scryfall.io/sets/pip.svg?1788148800",
+    "cardCount": 1068,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "14332d2c-ba93-4498-bf3f-9d601f88f783",
+    "name": "The Big Score",
+    "code": "big",
+    "releaseDate": "2024-04-19",
+    "iconUri": "https://svgs.scryfall.io/sets/big.svg?1788148800",
+    "cardCount": 95,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+    "name": "Outlaws of Thunder Junction Commander",
+    "code": "otc",
+    "releaseDate": "2024-04-19",
+    "iconUri": "https://svgs.scryfall.io/sets/otc.svg?1788148800",
+    "cardCount": 342,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "55a85ebe-644e-4bef-8be8-5290408be3d1",
+    "name": "Outlaws of Thunder Junction",
+    "code": "otj",
+    "releaseDate": "2024-04-19",
+    "iconUri": "https://svgs.scryfall.io/sets/otj.svg?1788148800",
+    "cardCount": 374,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "f5e00721-cf99-43ba-bf16-b22d56d12c73",
+    "name": "Modern Horizons 3 Commander",
+    "code": "m3c",
+    "releaseDate": "2024-06-14",
+    "iconUri": "https://svgs.scryfall.io/sets/m3c.svg?1788148800",
+    "cardCount": 398,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "20e53d4f-2ce8-4d82-9c7c-e6378a0134ad",
+    "name": "Modern Horizons 2 Timeshifts",
+    "code": "h2r",
+    "releaseDate": "2024-06-14",
+    "iconUri": "https://svgs.scryfall.io/sets/mh2.svg?1788148800",
+    "cardCount": 16,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+    "name": "Modern Horizons 3",
+    "code": "mh3",
+    "releaseDate": "2024-06-14",
+    "iconUri": "https://svgs.scryfall.io/sets/mh3.svg?1788148800",
+    "cardCount": 528,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+    "name": "Assassin's Creed",
+    "code": "acr",
+    "releaseDate": "2024-07-05",
+    "iconUri": "https://svgs.scryfall.io/sets/acr.svg?1788148800",
+    "cardCount": 309,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+    "name": "Bloomburrow Commander",
+    "code": "blc",
+    "releaseDate": "2024-08-02",
+    "iconUri": "https://svgs.scryfall.io/sets/blc.svg?1788148800",
+    "cardCount": 356,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "a2f58272-bba6-439d-871e-7a46686ac018",
+    "name": "Bloomburrow",
+    "code": "blb",
+    "releaseDate": "2024-08-02",
+    "iconUri": "https://svgs.scryfall.io/sets/blb.svg?1788148800",
+    "cardCount": 398,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "1e6879fe-2f29-4ad7-8d42-7f5bfb469f4a",
+    "name": "Mystery Booster 2",
+    "code": "mb2",
+    "releaseDate": "2024-08-02",
+    "iconUri": "https://svgs.scryfall.io/sets/mb2.svg?1788148800",
+    "cardCount": 385,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "a111d8a9-b647-48ec-afab-2b78f92173f5",
+    "name": "Duskmourn: House of Horror",
+    "code": "dsk",
+    "releaseDate": "2024-09-27",
+    "iconUri": "https://svgs.scryfall.io/sets/dsk.svg?1788148800",
+    "cardCount": 419,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "4c822528-83c3-42c7-8708-dd1d37166819",
+    "name": "Duskmourn: House of Horror Commander",
+    "code": "dsc",
+    "releaseDate": "2024-09-27",
+    "iconUri": "https://svgs.scryfall.io/sets/dsc.svg?1788148800",
+    "cardCount": 373,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "9201567c-bab5-4720-aac9-260e6741f115",
+    "name": "Foundations Jumpstart",
+    "code": "j25",
+    "releaseDate": "2024-11-15",
+    "iconUri": "https://svgs.scryfall.io/sets/j25.svg?1788148800",
+    "cardCount": 779,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+    "name": "Foundations",
+    "code": "fdn",
+    "releaseDate": "2024-11-15",
+    "iconUri": "https://svgs.scryfall.io/sets/fdn.svg?1788148800",
+    "cardCount": 771,
+    "type": "set",
+    "setType": "core"
+  },
+  {
+    "id": "2a0b24ac-7614-4a08-b58a-b64f7c173361",
+    "name": "Foundations Commander",
+    "code": "fdc",
+    "releaseDate": "2024-11-15",
+    "iconUri": "https://svgs.scryfall.io/sets/fdc.svg?1788148800",
+    "cardCount": 3,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "b9618c8c-9f31-4b42-9798-2991893c27bf",
+    "name": "Innistrad Remastered",
+    "code": "inr",
+    "releaseDate": "2025-01-24",
+    "iconUri": "https://svgs.scryfall.io/sets/inr.svg?1788148800",
+    "cardCount": 495,
+    "type": "set",
+    "setType": "masters"
+  },
+  {
+    "id": "23464cc2-a69c-427d-b8a7-08e5d80235d7",
+    "name": "Aetherdrift",
+    "code": "dft",
+    "releaseDate": "2025-02-14",
+    "iconUri": "https://svgs.scryfall.io/sets/dft.svg?1788148800",
+    "cardCount": 553,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "d33ef7a4-41bb-4f16-bad3-b3ee13c257e6",
+    "name": "Aetherdrift Commander",
+    "code": "drc",
+    "releaseDate": "2025-02-14",
+    "iconUri": "https://svgs.scryfall.io/sets/drc.svg?1788148800",
+    "cardCount": 184,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+    "name": "Tarkir: Dragonstorm Commander",
+    "code": "tdc",
+    "releaseDate": "2025-04-11",
+    "iconUri": "https://svgs.scryfall.io/sets/tdc.svg?1788148800",
+    "cardCount": 413,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+    "name": "Tarkir: Dragonstorm",
+    "code": "tdm",
+    "releaseDate": "2025-04-11",
+    "iconUri": "https://svgs.scryfall.io/sets/tdm.svg?1788148800",
+    "cardCount": 427,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "30659956-4558-4cbf-a65f-34cd00c89579",
+    "name": "Final Fantasy Commander",
+    "code": "fic",
+    "releaseDate": "2025-06-13",
+    "iconUri": "https://svgs.scryfall.io/sets/fic.svg?1788148800",
+    "cardCount": 486,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "d7beb4b7-e1ff-4d35-ab07-5700f17ea1ea",
+    "name": "Final Fantasy",
+    "code": "fin",
+    "releaseDate": "2025-06-13",
+    "iconUri": "https://svgs.scryfall.io/sets/fin.svg?1788148800",
+    "cardCount": 599,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "452951cf-378b-4472-b7fe-572fe2af2ac0",
+    "name": "Edge of Eternities",
+    "code": "eoe",
+    "releaseDate": "2025-08-01",
+    "iconUri": "https://svgs.scryfall.io/sets/eoe.svg?1788148800",
+    "cardCount": 400,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "b6ec8c6b-b4e6-4cb4-84d6-06234ace3b44",
+    "name": "Edge of Eternities Commander",
+    "code": "eoc",
+    "releaseDate": "2025-08-01",
+    "iconUri": "https://svgs.scryfall.io/sets/eoc.svg?1788148800",
+    "cardCount": 191,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "a1c7b891-9e96-434c-9994-be58b62b27f1",
+    "name": "Marvel's Spider-Man",
+    "code": "spm",
+    "releaseDate": "2025-09-26",
+    "iconUri": "https://svgs.scryfall.io/sets/spm.svg?1788148800",
+    "cardCount": 286,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "118f7e64-5caa-4cb7-99a8-184f4d3a7422",
+    "name": "Avatar: The Last Airbender",
+    "code": "tla",
+    "releaseDate": "2025-11-21",
+    "iconUri": "https://svgs.scryfall.io/sets/tla.svg?1788148800",
+    "cardCount": 394,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+    "name": "Lorwyn Eclipsed Commander",
+    "code": "ecc",
+    "releaseDate": "2026-01-23",
+    "iconUri": "https://svgs.scryfall.io/sets/ecc.svg?1788148800",
+    "cardCount": 176,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "5d293ad8-a749-4725-bd5c-c4e1db828bd0",
+    "name": "Lorwyn Eclipsed",
+    "code": "ecl",
+    "releaseDate": "2026-01-23",
+    "iconUri": "https://svgs.scryfall.io/sets/ecl.svg?1788148800",
+    "cardCount": 408,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "03990f52-1d8a-4ce8-828a-c9bf633f0de6",
+    "name": "Teenage Mutant Ninja Turtles",
+    "code": "tmt",
+    "releaseDate": "2026-03-06",
+    "iconUri": "https://svgs.scryfall.io/sets/tmt.svg?1788148800",
+    "cardCount": 320,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "97fab8d1-480a-419d-ab14-663968e29b9c",
+    "name": "Secrets of Strixhaven Commander",
+    "code": "soc",
+    "releaseDate": "2026-04-24",
+    "iconUri": "https://svgs.scryfall.io/sets/soc.svg?1788148800",
+    "cardCount": 426,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "e487c9ce-5e76-4756-bcd0-e4b7db5c38a3",
+    "name": "Secrets of Strixhaven",
+    "code": "sos",
+    "releaseDate": "2026-04-24",
+    "iconUri": "https://svgs.scryfall.io/sets/sos.svg?1788148800",
+    "cardCount": 368,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "9d739461-c5ac-43a1-af41-3d5a585b5c8d",
+    "name": "Marvel Super Heroes Commander",
+    "code": "msc",
+    "releaseDate": "2026-06-26",
+    "iconUri": "https://svgs.scryfall.io/sets/msc.svg?1788148800",
+    "cardCount": 866,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "ba9bf625-681c-4a4e-ab48-399b2fecac6b",
+    "name": "Marvel Super Heroes",
+    "code": "msh",
+    "releaseDate": "2026-06-26",
+    "iconUri": "https://svgs.scryfall.io/sets/msh.svg?1788148800",
+    "cardCount": 453,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+    "name": "The Hobbit",
+    "code": "hob",
+    "releaseDate": "2026-08-14",
+    "iconUri": "https://svgs.scryfall.io/sets/hob.svg?1788148800",
+    "cardCount": 321,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "cfd10490-7397-4143-bda7-d388b877636f",
+    "name": "Reality Fracture Commander",
+    "code": "frc",
+    "releaseDate": "2026-10-02",
+    "iconUri": "https://svgs.scryfall.io/sets/frc.svg?1788148800",
+    "cardCount": 2,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "6595985e-39cf-4ca3-b43d-dd3e64749fdc",
+    "name": "Reality Fracture",
+    "code": "fra",
+    "releaseDate": "2026-10-02",
+    "iconUri": "https://svgs.scryfall.io/sets/fra.svg?1788148800",
+    "cardCount": 44,
+    "type": "set",
+    "setType": "expansion"
+  },
+  {
+    "id": "a4135564-9f37-4aaf-963a-90666f843e0d",
+    "name": "Mystery Booster Commander Edition",
+    "code": "mbc",
+    "releaseDate": "2026-11-09",
+    "iconUri": "https://svgs.scryfall.io/sets/mbc.svg?1788148800",
+    "cardCount": 80,
+    "type": "set",
+    "setType": "draft_innovation"
+  },
+  {
+    "id": "a38c10be-90b1-4bb9-bd74-46784a751ac3",
+    "name": "Star Trek Commander",
+    "code": "trc",
+    "releaseDate": "2026-11-13",
+    "iconUri": "https://svgs.scryfall.io/sets/trc.svg?1788148800",
+    "cardCount": 41,
+    "type": "set",
+    "setType": "commander"
+  },
+  {
+    "id": "b47039dc-da5a-448c-8feb-e77d458108a6",
+    "name": "Star Trek",
+    "code": "trk",
+    "releaseDate": "2026-11-13",
+    "iconUri": "https://svgs.scryfall.io/sets/trk.svg?1788148800",
+    "cardCount": 135,
+    "type": "set",
+    "setType": "expansion"
+  }
+]

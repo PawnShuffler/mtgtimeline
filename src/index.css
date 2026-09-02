@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #150B00; /* mtg-black-bg */
+    color: #FFFBD5; /* mtg-white */
+  }
+}
